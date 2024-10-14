@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Cesar
 - 👀 I’m interested in Computer Science, finances & the crypto world
+- 👨🏻‍💻 Skills: C, C++
