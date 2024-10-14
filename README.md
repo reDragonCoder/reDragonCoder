@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Cesar
-- 👀 I’m interested in Computer Science & Finances
+- 👀 I’m interested in Computer Science, finances & the crypto world
