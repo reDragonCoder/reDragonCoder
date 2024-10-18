@@ -4,5 +4,5 @@
 
 ------------------------------------------------------------------------
 
-COMPETITIVE PROGRAMMING
+- HackerRank: https://www.hackerrank.com/profile/reDragonCyberSec
 - Codeforces: https://codeforces.com/profile/cesarZM
