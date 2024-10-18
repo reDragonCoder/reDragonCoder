@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cesar (reDragonCoder)
 - 👀 I’m interested in Computer Science, finances & cryptocurrencies
 - 👨🏻‍💻 Skills: C, C++, C#
-
+- 📩 Contact: redragoncoder.contact@proton.me
 ------------------------------------------------------------------------
 COMPETITIVE PROGRAMMING & PROBLEM SOLVING
 - HackerRank: https://www.hackerrank.com/profile/reDragonCyberSec
